@@ -1,4 +1,4 @@
-##Laravel Image Matching Web Application
+<h2>Laravel Image Matching Web Application</h2>
 <p>Application that works for matching images to provided website urls. The application get one image file,
 multiple website urls and multiple tags that seperated by comma. On the action performs to match image 
 checkes all the input values and encode the image to base64 hashing string. The takes grabs the data from 
