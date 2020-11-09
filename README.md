@@ -26,12 +26,13 @@ the uploaded one. The images are going to related image if those doesn't matches
  - Download or Clone the file to the local server directory just
  - Go to the local server url and that will works. *Example: http://localhost/your-directory*
  
- 
+<br><br>
 ##Contribution
+
 <a href="http://misujon.com/" target="_blank"><img width="150" src="http://www.misujon.com/wp-content/uploads/2017/11/Logo.png"></a>
-M.i.Sujon<br>
+<br>M.i.Sujon<br>
 <a href="http://misujon.com/" target="_blank">www.misujon.com</a><br>
 <a href="mailto:contact@misujon.com">contact@misujon.com</a>
 
-
-#Thank You
+<br>
+<h2>Thank You</h2>
