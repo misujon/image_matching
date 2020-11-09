@@ -27,7 +27,7 @@ the uploaded one. The images are going to related image if those doesn't matches
  - Go to the local server url and that will works. *Example: http://localhost/your-directory*
  
 <br/><br/>
-##Contribution
+<h2>Contribution</h2>
 
 <a href="http://misujon.com/" target="_blank"><img width="150" src="http://www.misujon.com/wp-content/uploads/2017/11/Logo.png"></a>
 <br>M.i.Sujon<br>
