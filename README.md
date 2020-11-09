@@ -26,7 +26,7 @@ the uploaded one. The images are going to related image if those doesn't matches
  - Download or Clone the file to the local server directory just
  - Go to the local server url and that will works. *Example: http://localhost/your-directory*
  
-<br><br>
+<br/><br/>
 ##Contribution
 
 <a href="http://misujon.com/" target="_blank"><img width="150" src="http://www.misujon.com/wp-content/uploads/2017/11/Logo.png"></a>
